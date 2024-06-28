@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [www.techlooop.com](www.techlooop.com)
 
-- 📄 My Web Dev Agency [www.techlooop.com](www.techlooop.com)
+- 📄 My Software Dev Agency [www.techlooop.com](www.techlooop.com)
 
 - ⚡ Fun fact **I love inspiring people to code!**
 
