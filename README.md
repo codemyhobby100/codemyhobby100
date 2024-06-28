@@ -6,19 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemyhobby100&label=Profile%20views&color=0e75b6&style=flat" alt="codemyhobby100" /> </p>
 
-- 🔭 I’m currently working on [an E-commerce website and a web3.0 project](Coming Soon...)
-
-- 🌱 I’m currently learning **React.js and some other javaScript frameworks.**
+- 🔭 Building the Next Big Software Development Agency
 
 - 👨‍💻 All of my projects are available at [https://github.com/codemyhobby100](https://github.com/codemyhobby100)
 
-- 📝 I create daily tutorials on [https://www.youtube.com/c/Codemyhobby/](https://www.youtube.com/c/Codemyhobby/)
+- 📝 More Web development content available on [https://www.youtube.com/c/Codemyhobby/](https://www.youtube.com/c/Codemyhobby/)
 
-- 💬 Ask me about **Html, Advance CSS, Bootstrap, JavaScript, React.JS, Node.JS, Java**
+- 💬 Ask me about **React.JS, Next.JS, other JavaScript Frameworks, and Java**
 
 - 📫 How to reach me **codemyhobby9@gmail.com**
 
-- 📄 Know about my experiences [www.codemyhobby.com](www.codemyhobby.com)
+- 📄 Know about my experiences [www.techlooop.com](www.techlooop.com)
 
 - 📄 My Web Dev Agency [www.techlooop.com](www.techlooop.com)
 
