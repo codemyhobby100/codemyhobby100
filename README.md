@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdul-baqi Al-hassan</h1>
-<h3 align="center">A passionate frontend web developer from Nigeria with over 4 years of experience. I am also a youtuber and I focus on teaching web design/development tutorials.</h3>
+<h3 align="center">A passionate web developer with over four years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemyhobby100&label=Profile%20views&color=0e75b6&style=flat" alt="codemyhobby100" /> </p>
 
