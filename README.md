@@ -1,4 +1,5 @@
-![Purple Modern Digital Marketing Banner](https://user-images.githubusercontent.com/65310505/184858405-30f9b489-f152-458b-b7c2-038e8f240382.png)
+![Black Modern Personal LinkedIn Banner (4)](https://github.com/user-attachments/assets/3f3d8b06-b316-460b-a911-4831d79a0391)
+
 
 
 <h1 align="center">Hi 👋, I'm Abdul-baqi Al-hassan</h1>
