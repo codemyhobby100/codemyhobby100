@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **codemyhobby9@gmail.com**
 
-- 📄 Know about my experiences [www.techloopincorp.com](www.techloopincorp.com)
+- 📄 Know about my experiences [www.techloop.ltd]([www.techloop.ltd](https://www.techloop.ltd/))
 
-- 📄 My Software Dev Agency [www.techloopincorp.com](www.techloopincorp.com)
+- 📄 My Software Dev Agency [www.techloop.ltd]([www.techloop.ltd](https://www.techloop.ltd/))
 
 - ⚡ Fun fact **I love inspiring people to code!**
 
